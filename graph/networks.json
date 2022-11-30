@@ -1,0 +1,7 @@
+{
+  "goerli": {
+    "MockERC20": {
+      "address": "0x048c02D503fD024d2fF07B7BF0d64E7A5C02961D"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+type Balance @entity {
+  id: ID!
+  value: BigInt!
+  owner: Bytes! # address
+  tx: Bytes! # address
+  block: BigInt!
+  time: BigInt!
+}
